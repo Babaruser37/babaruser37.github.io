@@ -48,14 +48,6 @@ const cards = [
     tags: ["Audio"]
   },
   {
-    id: "SennheiserG4",
-    title: "Sennheiser G4 Mic",
-    description: "The newest Sennheiser mics we have.",
-    backgroundImage: "https://cdn11.bigcommerce.com/s-2j5x3/images/stencil/1280x1280/products/103/1041/Sennheiser-EW-100-G4-ME2-A-Wireless-Microphone-System__19595.1565886487.jpg?c=1",
-    link: "/SennheiserG4.html",
-    tags: ["Audio"]
-  },
-  {
     id: "SonyCamera",
     title: "Sony PXW-Z90V",
     description: "The one and only standard camera.",

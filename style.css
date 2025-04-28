@@ -39,6 +39,9 @@ nav ul{
     align-items: center;
     flex-direction: row;
 }
+#search-container{
+    color: black;
+}
 #content{
     display: flex;
     justify-content: center;
