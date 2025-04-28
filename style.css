@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+head, body{
+    background-color: #0d1018;
+    color: #eff0f3;
+}
+nav{
+    height: 8vw;
+    width: 100%;
+    background-color: #574f43;
+    border-radius: 0 0 10px 10px;
+    background: linear-gradient(to bottom, #574f43);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 1.5em;
+}
+
+nav ul a{
+    text-decoration: none;
+    color: #eff0f3;
+}
+nav ul{ 
+    display: flex;
+    justify-content:space-around;  
+    align-items: center;
+    list-style: none;
+    padding-top: 2vw;
+}
+#filter{
+    padding-top: 3vh;
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+    align-items: center;
+    flex-direction: row;
+}
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top:20px;
+    height: 100vh;
+}
+#content h1{
+    font-size: 5vw;
+    color: #eff0f3;
+    text-align: center;
+    height: auto;
+}
+/* Non-Specific Card CSS */
+.card{
+    width: 20vw;
+    min-width: 100px;
+    height: 30vh;
+    margin: 2vw;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #555;
+}
+.card h2{
+    color: #eff0f3;
+    font-size: 2vw;
+    text-align: center;
+}
+.card p{
+    color: #eff0f3;
+    font-size: 1vw;
+    text-align: center;
+}
+
+#tag-suggestions {
+    background-color: #eff0f3;
+    border: 1px solid #ccc;
+    max-width: 400px;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #tag-suggestions div {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  #tag-suggestions div:hover {
+    background-color: #f0f0f0;
+  }
+  
+#search {
+    padding: 8px 12px;
+    width: 100%;
+    max-width: 400px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+/* Help Container for all help pages */
+.helpContent{
+    margin: 20px;
+}
+.helpContent h1{
+    color: #eff0f3;
+    text-align: center;
+    height: auto;
+}
+.helpContent ul{
+    list-style: none;
+    padding-left: 0;
+}
+.helpContent ul li{
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    color: black;
+}
+
+/* Specific Card CSS */
+#containter{
+    padding: 20px;
+
+}
+#containter h3{
+    color: #eff0f3;
+    text-align: center;
+    height: auto;
+}
+.SpecificHelpContent{
+    margin:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    color: #eff0f3;
+    border-radius: 5px;
+    border: 2px solid #555;
+    background-color: #161b28;
+    padding: 20px;
+}
+
+.step{
+    width: 20vw;
+    min-width: 100px;
+    height: auto;
+    min-height: 10vw;
+    margin: 2vw;
+    border-radius: 10px;
+    border: 1px solid #555;
+    padding: 10px;
+}
+
