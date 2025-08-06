@@ -1,0 +1,25 @@
+[
+    {
+        "title" : "Line in is clipping",
+        "steps" : [
+            "Lower the input knob until it is no longer clipping.",
+            "If applicable, add a pad to the input channels.",
+            "Lower the the output gain of the channel from the mixer."
+        ]
+    },
+    {
+        "title" : "Focusirte not detected",
+        "steps" : [
+            "Power cycle the Focusrite by unplugging it and plugging it back in.",
+            "Fully close and restart the application."
+        ]
+    },
+    {
+        "title" : "Not able to hear playback from headphone line",
+        "steps" : 
+        [
+            "Ensure that direct monitoring is enabled (Button at the front illuminated green).",
+            "Raise the headphone volume knob."
+        ]
+    }
+]

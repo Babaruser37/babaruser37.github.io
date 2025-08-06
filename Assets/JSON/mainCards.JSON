@@ -1,0 +1,72 @@
+[
+    {
+        "id": "SoundCraftMixer",
+        "title": "Soundcraft Mixer",
+        "description": "The digital soundcraft Mixer.",
+        "backgroundImage": "https://shop.solotech.com/cdn/shop/products/SI-EXPRESSION-1.jpg?v=1582333438",
+        "link": "/SoundCraftMixer",
+        "tags": [
+            "Audio"
+        ]
+    },
+    {
+        "id": "StreamCart",
+        "title": "Stream Cart",
+        "description": "One of the 2 carts we use for streaming.",
+        "backgroundImage": "https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/switchblade_systems_swbs_mpc_t2_mobile_production_cart_tier_1674747628_1744865.jpg",
+        "link": "/StreamCart",
+        "tags": [
+            "Hybrid"
+        ]
+    },
+    {
+        "id": "Blackmagic",
+        "title": "Blackmagic ATEM Mini",
+        "description": "The Blackmagic ATEM Mini Pro is a powerful video switcher.",
+        "backgroundImage": "https://cdn.mos.cms.futurecdn.net/AytuYuPKz7rmP7xXH5t8Hj.jpg",
+        "link": "/Blackmagic",
+        "tags": [
+            "Video"
+        ]
+    },
+    {
+        "id": "Focusrite",
+        "title": "Focusrite",
+        "description": "Focusrite Scarlett 2i2 is a USB audio interface.",
+        "backgroundImage": "https://stevesmusic.com/cdn/shop/files/2274.jpg?v=1712293081&width=5760",
+        "link": "/Focusrite",
+        "tags": [
+            "Hybrid"
+        ]
+    },
+    {
+        "id": "SennheiserG3",
+        "title": "Sennheiser G3 Mic",
+        "description": "The oldest Sennheiser mics we have.",
+        "backgroundImage": "https://5.imimg.com/data5/YV/BW/MY-3396797/sennheiser-ew100-g3-500x500.jpg",
+        "link": "/SennheiserG3",
+        "tags": [
+            "Audio"
+        ]
+    },
+    {
+        "id": "SonyCamera",
+        "title": "Sony PXW-Z90V",
+        "description": "The one and only standard camera.",
+        "backgroundImage": "https://m.media-amazon.com/images/I/71XerFfukkL.jpg",
+        "link": "/SonyCamera",
+        "tags": [
+            "Video"
+        ]
+    },
+    {
+        "id": "YamahaMixer",
+        "title": "YamahaMixer",
+        "description": "Test123",
+        "backgroundImage": "https://www.stjohnsmusic.com/32045-superlarge_default/yamaha-digital-mixing-console-tf1.jpg",
+        "link": "/YamahaMixer",
+        "tags": [
+            "audio"
+        ]
+    }
+]

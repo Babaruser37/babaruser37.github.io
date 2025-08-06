@@ -1,0 +1,42 @@
+[    
+    {
+        "title": "No Audio From a Channel",
+        "steps":[
+            "Make sure speakers are turned on and not muted",
+            "Make sure that you are pulling audio from the correct place (Stagebox pulls from \"SLOT\" / XLR pulls from \"INPUT\")",
+            "Make sure channel is receiving a signal",
+            "Make sure output is routed to where it is supposed to go. \"Omni Out Settings\""
+        ]
+    },
+    {
+        "title": "No Connection to the Great Hall Rack",
+        "steps": [
+            "Make sure the ethernet cable is connected to the primary ethernet port on the back of the mixer. There should be an LED near the connector that flickers when properly connected.",
+            "Note: There is another ethernet port near the edge of the back of the mixer however that one is designated for connecting other devices such as laptops or iPads.",
+            "Make sure the mixer setting is enabled on the rack (GH). On stagebox, make sure the sync light is lit up with a green light."
+        ]
+    },
+    {
+        "title": "Midfills are not Synced",
+        "steps": [
+            "If your midfill is on Aux output 1 - 8, Switch it to another Aux output between 9 - 14 as the first 8 outputs dont allow for any time delay.",
+            "Activate the effect \"Mono Delay\" and adjust it until the midfill is synced up.",
+            "Note: The \" FX 2 Button beside the screen but me turned on\" Additioanlly, set the \"Wet Setting\" to 100%"
+        ]
+    },
+    {
+        "title": "No Connection Between Stagebox and Mixer",
+        "steps": [
+            " Make sure the ethernet cable is connected to the primary ethernet port on the back of the stagebox. There should be an LED near the connector that flickers when properly connected.",
+            "Go to \"Settings\" and then \"Slot Setup\" and make sure \"Quick Config\" is enabled.",
+            "Switch out the ethernet cable for an \"Ethercon\" cable."
+        ]
+    },
+    {
+        "title": "Channel ON Light is Blinking",
+        "steps": [
+            "When the Channel \"ON\" light is blinking, it means that channel is muted, through a DCA or a group.",
+            "To check the the DCAs, assign the DCA to the Custom Fader Bank, Head to Custom Fader Bank and hit Select to see if any channels are assigned. Do this for all DCAs until the problem is solved.",
+            "For Groups there are 2 main groups to look for and they are located on the top right section of the board labled: \"MUTE\". Ensure that the input button is disabled."    ]
+    }
+]

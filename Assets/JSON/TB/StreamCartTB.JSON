@@ -1,0 +1,36 @@
+[
+    {
+        "title": "No Audio to or from the Focusrite.",
+        "steps":[
+            "Ensure the Windows settings are configured to use the Focusrite as Input and Output. Settings > System, Sound, Volume Mixer > Focusrite USB Audio.",
+            "Check the Applications settings to ensure that the correct audio input and output devices are selected.",
+            "Verify that the Focusrite is detected by the computer. Open the Focusrite Control Software and if it says \"No Hardware Connected\", unplug and replug the Focusrite USB cable."
+
+        ]
+    },
+    {
+        "title": "No video feed from the Capture Card.",
+        "steps": [
+            "Ensure the Capture Card is properly connected to the computer and the camera.",
+            "Check the video settings in the streaming software to ensure the correct Capture Card is selected as the video source.",
+            "Verify that the camera is powered on and set to output video through HDMI or SDI, depending on the Capture Card type.",
+            "Power cycle the Capture Card by unplugging it and plugging it back in.",
+            "Plug in directly to the video switcher and use from there if possible."
+        ]
+    },
+    {
+        "title" : "Audio from focusrite is looping back into the stream",
+        "steps": [
+            "Make sure you are not sending the output of the Focusrite on the mixer back to the input of the Focusrite.",
+            "Make sure that the channel settings are not set to loopback in the Focusrite Control Software."
+        ]
+    },
+    {
+        "title": "Computer is not getting Ethernet Connection",
+        "steps": [
+            "Ensure that the Ethernet cable is properly connected.",
+            "Swap to a different Ethernet port in the room.",
+            "Try swapping the Ethernet cable with a another one."
+        ]
+    }
+]

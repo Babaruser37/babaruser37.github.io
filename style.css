@@ -20,16 +20,16 @@ nav{
     font-size: 1.5em;
 }
 
-nav ul a{
-    text-decoration: none;
-    color: #eff0f3;
-}
 nav ul{ 
     display: flex;
     justify-content:space-around;  
     align-items: center;
     list-style: none;
     padding-top: 2vw;
+}
+nav ul a{
+    text-decoration: none;
+    color: #eff0f3;
 }
 #filter{
     padding-top: 3vh;
@@ -139,6 +139,7 @@ nav ul{
     color: #eff0f3;
     text-align: center;
     height: auto;
+    margin: 10px;
 }
 .SpecificHelpContent{
     margin:20px;
@@ -152,6 +153,9 @@ nav ul{
     background-color: #161b28;
     padding: 20px;
 }
+#help-content h3{
+    text-align: center;
+}
 
 .step{
     width: 20vw;
@@ -163,4 +167,12 @@ nav ul{
     border: 1px solid #555;
     padding: 10px;
 }
+.step h3{
+    padding-bottom: 10px;
+    text-align: center;
+}
+.step p{
+    line-height: 3.5vh;
+}
+
 

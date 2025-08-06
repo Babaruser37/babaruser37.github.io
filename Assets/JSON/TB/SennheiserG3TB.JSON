@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Microphone keeps losing connection",
+        "steps" :[ 
+            "On the reciever, lower the squelch level. This might allow weaker signals to be recieved.",
+            "Scan and change the frequency to a more stable signal on the reciever and then sync it to the microphone.",
+            "If possible, elevate the reciever to a higher position or swap antenna for longer ones.",
+            "Swap the microphone for a different one, if available."
+    ]
+    },
+    {
+        "title": "Microphone is Clipping",
+        "steps": [
+            "Lower the gain on the microphone reciever or on the microphone itself.",
+            "Lower the gain on the mixer or add a pad to the signal (mixer specific)"
+        ]
+    }
+]
