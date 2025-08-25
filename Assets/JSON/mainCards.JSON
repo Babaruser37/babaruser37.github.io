@@ -4,7 +4,7 @@
         "title": "General Audio",
         "description": "A great workflow of the thought process beghind most audio trouble shooting.",
         "backgroundImage": "https://www.calacademy.org/sites/default/files/styles/manual_crop_standard_960x540/public/assets/images/events/nightlife/210228_nightschool_soundwaves_1200x900_website_nowordmark.jpg?itok=qUSH9hjt&c=edb148a69e75bc44e7af17511509fbcc",
-        "link": "/General_Audio",
+        "link": "/General_Audio/",
         "tags": [
             "Audio"
         ]
@@ -14,7 +14,7 @@
         "title": "General Video",
         "description": "A great workflow of the thought process beghind most audio trouble shooting.",
         "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/330px-Philips_PM5544.svg.png",
-        "link": "/General_Video",
+        "link": "/General_Video/",
         "tags": [
             "Video"
         ]
@@ -24,7 +24,7 @@
         "title": "Stream Cart",
         "description": "The most powerful PCs in Hart House used for running zoom.",
         "backgroundImage": "https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/switchblade_systems_swbs_mpc_t2_mobile_production_cart_tier_1674747628_1744865.jpg",
-        "link": "/StreamCart",
+        "link": "/StreamCart/",
         "tags": [
             "Hybrid"
         ]
@@ -34,7 +34,7 @@
         "title": "Blackmagic ATEM Mini",
         "description": "Our baby video switcher. One of these days it will grow up.",
         "backgroundImage": "https://cdn.mos.cms.futurecdn.net/AytuYuPKz7rmP7xXH5t8Hj.jpg",
-        "link": "/Blackmagic",
+        "link": "/Blackmagic/",
         "tags": [
             "Video"
         ]
@@ -44,7 +44,7 @@
         "title": "Focusrite",
         "description": "The magical red box that does everything and nothing.",
         "backgroundImage": "https://stevesmusic.com/cdn/shop/files/2274.jpg?v=1712293081&width=5760",
-        "link": "/Focusrite",
+        "link": "/Focusrite/",
         "tags": [
             "Hybrid"
         ]
@@ -54,7 +54,7 @@
         "title": "Sennheiser Mics",
         "description": "The oldest Sennheiser mics we have.",
         "backgroundImage": "https://5.imimg.com/data5/YV/BW/MY-3396797/sennheiser-ew100-g3-500x500.jpg",
-        "link": "/SennheiserG3",
+        "link": "/SennheiserG3/",
         "tags": [
             "Audio"
         ]
@@ -64,7 +64,7 @@
         "title": "Sony PXW-Z90V",
         "description": "The one and only standard camera.",
         "backgroundImage": "https://m.media-amazon.com/images/I/71XerFfukkL.jpg",
-        "link": "/SonyCamera",
+        "link": "/SonyCamera/",
         "tags": [
             "Video"
         ]
@@ -74,7 +74,7 @@
         "title": "YamahaMixer",
         "description": "16 Channel Digital Mixer with limited functionality.",
         "backgroundImage": "https://www.stjohnsmusic.com/32045-superlarge_default/yamaha-digital-mixing-console-tf1.jpg",
-        "link": "/YamahaMixer",
+        "link": "/YamahaMixer/",
         "tags": [
             "Audio"
         ]
@@ -84,7 +84,7 @@
         "title": "PowerPoint",
         "description": "The most commonly used software for presentations.",
         "backgroundImage": "https://static.vecteezy.com/system/resources/previews/038/600/538/non_2x/powerpoint-icon-microsoft-logo-office-app-presentation-computer-file-program-symbol-work-application-concept-document-free-vector.jpg",
-        "link": "/PowerPoint",
+        "link": "/PowerPoint/",
         "tags": [
             "Software"
         ]

@@ -2,7 +2,7 @@ const nav = [
     "<nav>",
     "    <div id=\"header\">",
     "        <ul>",
-    "            <a href=\"/Index.html\">",
+    "            <a href=\"/\">",
     "                <li><img src=\"/Assets/Images/Logo.PNG\" alt=\"AV Home logo - TBD\" style=\"width: 100px;\"></li>",
     "            </a>",
     "            <li> </li>",
