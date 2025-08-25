@@ -8,6 +8,18 @@
     <title>AV Barracks</title>
 </head>
 <body>
+    <style>
+    body{
+    background-image: url(https://www.dc.umich.edu/wp-content/uploads/sites/487/2023/07/StudioA_HDR-1200x800.jpg);
+    background-color: black;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-image: linear-gradient(to bottom, #00000023, #000000), url(https://www.dc.umich.edu/wp-content/uploads/sites/487/2023/07/StudioA_HDR-1200x800.jpg);
+    /* background: linear-gradient(to bottom, #0d101890, #11192c6d); */
+    color: #eff0f3; 
+}
+    </style>
     <script>
     fetch('/Assets/JSON/mainCards.JSON')
     .then(response => response.json()) // Parse JSON
@@ -20,6 +32,7 @@
         <!-- Placeholder for nav -->
     </div>
     <script src="/Navbar.js"></script>
+
 
     <div id="search-container" style="position: relative; max-width: 400px; margin: 20px auto;">
         <input type="text" id="search" placeholder="Search by title or #tag..." />

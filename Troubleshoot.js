@@ -5,7 +5,7 @@ async function loadHelpTopics(path) {
     const helpContent = document.getElementById('help-content');
 
     helpTopics.forEach(topic => {
-      const topicTitle = document.createElement('h3');
+      const topicTitle = document.createElement('h2');
       topicTitle.textContent = topic.title;
       helpContent.appendChild(topicTitle);
 

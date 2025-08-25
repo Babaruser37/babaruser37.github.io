@@ -1,0 +1,34 @@
+[
+    {
+        "title" : "How to Loop a Slideshow",
+        "steps" : [
+            "Slide Show Tab > Set up slide show > Show options group > Loop continuously until 'ESC' > OK ",
+            "Select all slides by clicking the first slide on the preview slide panel on the left and Shift + left click the last slide.  ",
+            "Uncheck the \"On Mouse Click\" on Slide Show Tab and check the \"After\" and adjust the timing on the slide advance"
+        ]
+    },
+    {
+        "title" : "Video Imbedd Issues",
+        "steps" : [
+            "Ensure that the video still exists and is accessible through an empty browser (incognito mode) ",
+            "If just the URL was provided, try switching it out for the embed tag (if it has one) on youtube: go to video  > share > embed > copy > go to PowerPoint, Insert Tab > Video > Online Video >  Add embed tag. ",
+            "Select the video > Video Tools Tab> Playback Tab>Video Options group> Start Automatically or When Clicked"
+        ]
+    },
+    {
+        "title" : "Changing the Display Settings (Windows)",
+        "steps" : [
+            "Press F8 (Fn Key + F8 ) to open the display menu",
+            "Select the display option you want to use (Duplicate, Extend, Second Screen Only, PC Screen Only)"
+
+        ]
+    },
+        {
+        "title" : "Changing the Display Settings (Mac)",
+        "steps" : [
+
+            "Click on the apple Icon on the top left of the display > System Preferences  > Displays > Arrangement",
+            "Check the \"Mirror Displays\" box to duplicate the display or uncheck it to extend the display"
+        ]
+    }
+]

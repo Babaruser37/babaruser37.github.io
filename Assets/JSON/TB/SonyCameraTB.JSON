@@ -1,0 +1,29 @@
+[
+    {
+        "title": "No Signal Rainbow",
+        "steps": [
+            "Ensure the camera is powered on and the lens cap is removed.",
+            "Ensure the camera is set to the correct output mode (HDMI/SDI). \" Menu\" > \"REC/OUT SET\" > \"Video Out\" > \"Output Select\" > HDMI/SDI",
+            "If using an external monitor, ensure it is set to the correct input source.",
+            "Restart the camera and try again."
+        ]
+    },
+    {
+        "title": "Camera Not Focusing",
+        "steps": [
+            "Ensure the lens is set to auto-focus mode.",
+            "Check if the camera is in manual focus mode and switch it to auto-focus.",
+            "Clean the lens contacts and ensure they are free of dust or debris.",
+            "Try switching to a different lens if available."
+        ]
+    },
+    {
+        "title": "Not Getting Audio",
+        "steps": [
+            "Ensure the correct mic input is selected in the camera settings.",
+            "Ensure you are sending the signal out via the XLR cable.",
+            "Raise the gain using the knobs on the side of the camera attachment (Signal may be very low).",
+            "Swap the camera if possible."
+        ]
+    }
+]

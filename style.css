@@ -1,23 +1,26 @@
 *{
     margin: 0;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
 }
 a{
     text-decoration: none;
 }
 head, body{
-    background-color: #0d1018;
-    color: #eff0f3;
+    background-image: linear-gradient(to bottom, #07070a8e, #07070a53), url(/Assets/Images/bg.PNG);
+    background-size: cover;
+    background-repeat: repeat-y;
+    color: #eff0f3; 
 }
 nav{
-    height: 8vw;
-    width: 100%;
-    background-color: #574f43;
+    height: 2rem;
+    padding: 1rem 2rem;
     border-radius: 0 0 10px 10px;
-    background: linear-gradient(to bottom, #574f43);
     display: flex;
     justify-content: center;
     flex-direction: column;
     font-size: 1.5em;
+    clear: both;
 }
 
 nav ul{ 
@@ -48,7 +51,6 @@ nav ul a{
     align-items: center;
     flex-wrap: wrap;
     padding-top:20px;
-    height: 100vh;
 }
 #content h1{
     font-size: 5vw;
@@ -106,6 +108,7 @@ nav ul a{
     max-width: 400px;
     font-size: 16px;
     border-radius: 6px;
+    background-color: #a5afcad1;
     border: 1px solid #ccc;
 }
 
@@ -144,28 +147,36 @@ nav ul a{
 .SpecificHelpContent{
     margin:20px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     color: #eff0f3;
     border-radius: 5px;
     border: 2px solid #555;
-    background-color: #161b28;
+    background: linear-gradient(to bottom, #161b28, #11192c);
     padding: 20px;
+    min-height: 40vh;
 }
-#help-content h3{
+
+#help-content h2{
     text-align: center;
 }
 
 .step{
-    width: 20vw;
+    width: 25%;
     min-width: 100px;
+    max-width: 600px;
     height: auto;
-    min-height: 10vw;
+    min-height: 20vh;
     margin: 2vw;
     border-radius: 10px;
-    border: 1px solid #555;
+    border: 1px solid #a86b6e4b;
     padding: 10px;
+    background-color: #363a46;
+    background: linear-gradient(to bottom, #161b28, #0d1018);
+    
+
 }
 .step h3{
     padding-bottom: 10px;
@@ -173,6 +184,47 @@ nav ul a{
 }
 .step p{
     line-height: 3.5vh;
+    text-align: center;
 }
 
-
+.shortcuts table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    min-width: 22vw;
+}
+.shortcuts th{
+    background-color: #574f436f;
+    color: #eff0f3;
+    padding: 10px;
+    text-align: center;
+}
+.shortcuts th, .shortcuts td {
+    border: 1px solid #555;
+    padding: 10px;
+    text-align: center;
+}   
+.shortcuts h3{
+    text-align: center;
+}
+.Embed{
+    height: 315px;
+    border: none;
+    border-radius: 10px;
+}
+.EmbedContainer{
+    margin:20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    color: #eff0f3;
+    border-radius: 5px;
+    border: 2px solid #555;
+    background-color: #161b28;
+    padding: 20px;
+    min-height: 40vh;
+}
+.EmbedContainer div {
+    width: 40%;
+}

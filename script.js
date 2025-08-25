@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const searchInput = document.getElementById("search");
   const contentDiv = document.getElementById("content");
   const styleSheet = document.getElementById("dynamicStyles");
-  const tagList = ["Audio", "Video", "Hybrid"];
+  const tagList = ["Audio", "Video", "Hybrid", "Software"];
   const suggestionBox = document.getElementById("tag-suggestions");
 
   // Fetch the JSON data from the file
